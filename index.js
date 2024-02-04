@@ -28,7 +28,7 @@ const songs = [
     },
     {      
         path: 'Opus/Metro Boomin, Future - Too Many Nights (Visualizer) ft. Don Toliver (152kbit_Opus).opus',
-        displayName: 'Too Many Nights (feat Don Toliver & with Future',
+        displayName: 'Too Many Nights (feat. Don Toliver & with Future)',
         cover: 'Thumbnails/Heroes and Villains.webp',
         artist: 'Metro Boomin, Future, Don Toliver',
     },
@@ -40,7 +40,7 @@ const songs = [
     },
     {      
         path: 'Opus/Metro Boomin, 21 Savage, Young Nudy - Umbrella (Visualizer) (128kbit_AAC).m4a',
-        displayName: 'Umbrella (with 21 Savage & Young Nudy',
+        displayName: 'Umbrella (with 21 Savage & Young Nudy)',
         cover: 'Thumbnails/Heroes and Villains.webp',
         artist: 'Metro Boomin, 21 Savage, Young Nudy',
     },
@@ -83,7 +83,7 @@ const songs = [
     },
     {
         path: "Opus/Metro Boomin, 21 Savage - Walk Em Down (Don't Kill Civilians) (Visualizer) ft. Mustafa (152kbit_Opus).opus",
-        displayName: "Walk Em Down (Don't Kill Civilians) [with 21 Savage & Mustafa",
+        displayName: "Walk Em Down (Don't Kill Civilians) [with 21 Savage & Mustafa]",
         cover: 'Thumbnails/Heroes and Villains.webp',
         artist: 'Metro Boomin, 21 Savage, Mustafa',
     },
