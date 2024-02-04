@@ -17,7 +17,7 @@ const songs = [
     {
         path: 'Opus/Metro Boomin, John Legend - On Time (Visualizer) (152kbit_Opus).opus',
         displayName: 'On Time (with John Legend)',
-        cover: 'Thumbnails/Heroes and Villains.webp',
+        cover: 'Thumbnails/Villain.jpg',
         artist: 'Metro Boomin, John Legend',
     },
     {      
