@@ -1,3 +1,7 @@
+body {
+  background: black;
+}
+
 .loader {
   height: 60px;
   aspect-ratio: 1;
